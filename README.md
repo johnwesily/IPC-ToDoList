@@ -1,4 +1,4 @@
-# dkeeper
+# IPC-todolist
 
 Welcome to your new dkeeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
@@ -15,7 +15,7 @@ To learn more before you start working with dkeeper, see the following documenta
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd dkeeper/
+cd IPC-todolist/
 dfx help
 dfx config --help
 ```
